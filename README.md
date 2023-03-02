@@ -3,7 +3,7 @@
 OpenCore config for this ultra light laptop containing:
 
 * i5 7200u
-* 13 inch FHD touchscreen
+* 13 inch FHD touchscreen (touch disabled in BIOS)
 * 20 GB RAM
 * 1 TB WB Blue NVMe SSD (half for Linux, half for macOS)
 * Intel wifi works out of the box with AirportItlwm.kext
