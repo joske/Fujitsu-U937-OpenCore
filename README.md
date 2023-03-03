@@ -17,7 +17,7 @@ OpenCore config for this ultra light laptop containing:
 * Video acceleration
 * brightness control via control center slider
 * volume keys
-* touchpad (but gestures are a bit wonky)
+* touchpad + gestures
 * Onboard audio using layout id 3 (USB & HDMI audio also work)
 * sleep/wake
 * onboard WiFi works with AirportItlwm.kext
