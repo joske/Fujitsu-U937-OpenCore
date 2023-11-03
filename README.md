@@ -32,3 +32,7 @@ OpenCore config for this ultra light laptop containing:
 - Card reader (Alcor 9540) - lost cause, unsupported, no problem, works in linux
 - brightness keys
 - HDMI output does something, but internal screen goes black and doesn't come back and external screen is corrupted
+
+## Ventura issue
+
+For some reason, when I try upgrading to Ventura, the upgrades b0rks and I have to reinstall Monterrey and restore from Time Machine.
