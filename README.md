@@ -15,7 +15,7 @@ OpenCore config for this ultra light laptop containing:
 
 - Boots fine
 - Power Management
-- Video acceleration
+- Video acceleration - metal 3
 - brightness control via control center slider
 - volume keys
 - touchpad + gestures
@@ -25,13 +25,14 @@ OpenCore config for this ultra light laptop containing:
 - onboard ethernet with IntelMausi.kext
 - USB hotplugging
 - webcam (UVC Camera VendorID_1266 ProductID_46566)
+- HDMI output works, after unplugging, the internal display is dark for a while, but comes back
 
 ## What doesn't work
 
 - bluetooth is detected, but doesn't turn on, don't care enough to troubleshoot
 - Card reader (Alcor 9540) - lost cause, unsupported, no problem, works in linux
 - brightness keys
-- HDMI output does something, but internal screen goes black and doesn't come back and external screen is corrupted
+
 
 ## Ventura issue
 
