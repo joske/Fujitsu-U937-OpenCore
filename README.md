@@ -13,7 +13,7 @@ OpenCore config for this ultra light laptop containing:
 
 ## What works
 
-- Boots fine
+- Boots fine into macOS Ventura
 - Power Management
 - Video acceleration - metal 3
 - brightness control via control center slider
@@ -32,8 +32,3 @@ OpenCore config for this ultra light laptop containing:
 - bluetooth is detected, but doesn't turn on, don't care enough to troubleshoot
 - Card reader (Alcor 9540) - lost cause, unsupported, no problem, works in linux
 - brightness keys
-
-
-## Ventura issue
-
-For some reason, when I try upgrading to Ventura, the upgrades b0rks and I have to reinstall Monterrey and restore from Time Machine.
