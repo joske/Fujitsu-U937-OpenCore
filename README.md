@@ -2,6 +2,8 @@
 
 OpenCore config for this ultra light laptop containing:
 
+**OpenCore version: 1.0.0**
+
 - i5 7200u iGPU UHD 620
 - 13 inch FHD touchscreen (touch disabled in BIOS)
 - 20 GB RAM
